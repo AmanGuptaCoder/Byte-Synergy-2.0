@@ -1,4 +1,4 @@
-![](./images/new.png)
+![](./images/new.jpeg)
 
 ## LearnNowX-Ideathon
 
