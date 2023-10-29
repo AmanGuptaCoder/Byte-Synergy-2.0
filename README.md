@@ -57,7 +57,7 @@ PHP v8.1,PHP Mbstring Extension,PHP PDO Extension,PHP FileInfo Extension,PHP JSO
 
 1. Setup Wamp or Xampp Server in case of Windows or LAMP Server in case of Linux or MAMP in case of Mac, Here I have used Cpanel beacause it is easy to setup in cpanel.
 
-2. Zip and upload only the contents of github Project to the root directory of your hosting server. Ex: /var/www/html/ or /home/username/public_html or whatever is the root folder of your domain/subdomain which will make it reachable as follows: http://yourwebsitename/ like in my case https://learnowx.teamcode.tech
+2. Zip and upload only the contents of github Project to the root directory of your hosting server. Ex: /var/www/html/ or /home/username/public_html or whatever is the root folder of your domain/subdomain which will make it reachable as follows: http://yourwebsitename/ like in my case https://techathon.teamcode.tech
 3. After uploading all files and making sure that domain name has proper path set, create Mysql database and proper user in case if you don't already have one, to access this database. You can either create manually via your phpMyAdmin panel or use phpMyAdmin Wizard in your cPanel to create one
 4. Now open .env.example file in file manager and add the following details:-
    APP_URL=
