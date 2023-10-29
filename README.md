@@ -1,4 +1,4 @@
-## LearnNowX-Ideathon
+## Hackathon
 ![](./images/new.jpeg)
 
 
