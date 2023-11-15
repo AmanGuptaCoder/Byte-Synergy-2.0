@@ -126,7 +126,6 @@ Offer in-app purchases for additional features, templates, or content styles tha
 
 - Aman Gupta
 - Shashank Kumar
-- Richa Agrawal
 - Prarthana Agrawal
 
 
